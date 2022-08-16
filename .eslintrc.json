@@ -10,8 +10,6 @@
       "version": "detect"
     }
   },
-    "ecmaVersion": 12,
-    "sourceType": "module",
 
   // all plugins (eslint-plugin-xxx) go here:
   "plugins": [
